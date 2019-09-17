@@ -1,0 +1,23 @@
+﻿syntax = "proto3";
+package gRPCDemo;
+
+service gRPC{
+	rpc Deduction(DeductionRequest) returns (DeductionReply){}  
+	rpc GetInventoryQuantity(GetInventoryQuantityRequest) returns (GetInventoryQuantityReply){}
+}
+
+message DeductionRequest {
+  int32 auantity = 1;
+}
+
+message DeductionReply {
+  int32 totalInventory = 1;
+}
+
+message GetInventoryQuantityRequest{
+  int32 auantity = 1;
+}
+
+message GetInventoryQuantityReply{
+  int32 totalInventory = 1;
+}

@@ -1,0 +1,8 @@
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\bin\Debug\netcoreapp2.2\gRPC.Demo.Protocol.deps.json
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\bin\Debug\netcoreapp2.2\gRPC.Demo.Protocol.dll
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\obj\Debug\netcoreapp2.2\gRPC.Demo.Protocol.csproj.CoreCompileInputs.cache
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\obj\Debug\netcoreapp2.2\gRPC.Demo.Protocol.AssemblyInfoInputs.cache
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\obj\Debug\netcoreapp2.2\gRPC.Demo.Protocol.AssemblyInfo.cs
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\bin\Debug\netcoreapp2.2\gRPC.Demo.Protocol.pdb
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\obj\Debug\netcoreapp2.2\gRPC.Demo.Protocol.dll
+E:\test\share\Actor.Demo\gRPC.Demo.Protocol\obj\Debug\netcoreapp2.2\gRPC.Demo.Protocol.pdb

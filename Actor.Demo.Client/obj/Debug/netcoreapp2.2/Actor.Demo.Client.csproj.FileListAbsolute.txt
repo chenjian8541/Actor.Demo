@@ -1,0 +1,13 @@
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Client.deps.json
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Client.runtimeconfig.json
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Client.runtimeconfig.dev.json
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Client.dll
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.csproj.CoreCompileInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.AssemblyInfoInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.AssemblyInfo.cs
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Client.pdb
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.dll
+E:\test\share\Actor.Demo\Actor.Demo.Client\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.pdb
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.csproj.CopyComplete
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.dll
+E:\test\share\Actor.Demo\Actor.Demo.Client\obj\Debug\netcoreapp2.2\Actor.Demo.Client.pdb

@@ -1,0 +1,14 @@
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.deps.json
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.dll
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\Actor.Demo.Interfaces.csprojAssemblyReference.cache
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\Actor.Demo.Interfaces.csproj.CoreCompileInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\Actor.Demo.Interfaces.AssemblyInfoInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\Actor.Demo.Interfaces.AssemblyInfo.cs
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.pdb
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\codegen\Actor.Demo.Interfaces.csproj.CoreCompileInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\codegen\Actor.Demo.Interfaces.AssemblyInfoInputs.cache
+E:\github\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.deps.json
+E:\github\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.dll
+E:\github\Actor.Demo\Actor.Demo.Interfaces\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.pdb
+E:\github\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\codegen\Actor.Demo.Interfaces.csproj.CoreCompileInputs.cache
+E:\github\Actor.Demo\Actor.Demo.Interfaces\obj\Debug\netcoreapp2.2\codegen\Actor.Demo.Interfaces.AssemblyInfoInputs.cache

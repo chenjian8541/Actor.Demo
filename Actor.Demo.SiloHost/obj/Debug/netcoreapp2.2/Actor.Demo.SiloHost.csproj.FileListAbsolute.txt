@@ -1,0 +1,15 @@
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.SiloHost.deps.json
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.SiloHost.runtimeconfig.json
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.SiloHost.runtimeconfig.dev.json
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.SiloHost.dll
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.csproj.CoreCompileInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.AssemblyInfoInputs.cache
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.AssemblyInfo.cs
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.SiloHost.pdb
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.Grains.dll
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.dll
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.Grains.pdb
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\bin\Debug\netcoreapp2.2\Actor.Demo.Interfaces.pdb
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.csproj.CopyComplete
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.dll
+E:\test\share\Actor.Demo\Actor.Demo.SiloHost\obj\Debug\netcoreapp2.2\Actor.Demo.SiloHost.pdb

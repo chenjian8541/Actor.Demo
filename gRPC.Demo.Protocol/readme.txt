@@ -1,0 +1,1 @@
+﻿C:\Users\225\.nuget\packages\grpc.tools\2.23.0\tools\windows_x86\protoc.exe -IgRPC.Demo.Protocol --csharp_out gRPC.Demo.Protocol gRPC.Demo.Protocol\InventoryService.proto --grpc_out gRPC.Demo.Protocol --plugin=protoc-gen-grpc=C:\Users\225\.nuget\packages\grpc.tools\2.23.0\tools\windows_x86\grpc_csharp_plugin.exe
